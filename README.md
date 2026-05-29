@@ -40,8 +40,14 @@ Computer Information Systems student at California State University, Los Angeles
 * Windows Server
 * Group Policy Management
 * Networking Fundamentals
-* Cisco CCNA Concepts
+* Cisco CCNA
+* 
+## Certifications
 
+Currently Pursuing:
+- CompTIA A+
+- Cisco CCNA
+- 
 ## Technologies
 
 * Windows Server 2022
