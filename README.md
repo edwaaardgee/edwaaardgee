@@ -4,7 +4,7 @@ Computer Information Systems Student
 California State University, Los Angeles  
 Expected Graduation: Spring 2027
 
-Building hands-on experience through enterprise IT homelabs, data analytics projects, university coursework and networking labs.
+Building hands-on experience through enterprise IT homelabs, networking labs, data analytics projects, and university coursework.
 
 ## Interests
 
