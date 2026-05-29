@@ -1,6 +1,10 @@
 # Hi, I'm Edward Gallegos 👋
 
-Computer Information Systems student at California State University, Los Angeles with interests in:
+Computer Information Systems student at California State University, Los Angeles
+
+Expected Graduation: Spring 2027
+
+Interests:
 
 * IT Infrastructure
 * System Administration
@@ -11,7 +15,8 @@ Computer Information Systems student at California State University, Los Angeles
 ## Current Projects
 
 ### Enterprise IT Homelab
-
+Repository:
+https://github.com/edwaaardgee/enterprise-it-homelab
 * Windows Server 2022
 * Active Directory
 * DNS
@@ -21,14 +26,16 @@ Computer Information Systems student at California State University, Los Angeles
 * Windows 11 Domain Integration
 
 ### NYC Taxi Elasticsearch Project
-
+Repository:
+https://github.com/edwaaardgee/nyc-taxi-elasticsearch-project
 * Elasticsearch
 * Kibana
 * Python
 * Data Visualization
 
 ### NYC 311 Service Requests Analysis
-
+Repository:
+https://github.com/edwaaardgee/311_service_requests_analysis
 * Hadoop
 * HiveQL
 * Big Data Analytics
@@ -39,15 +46,15 @@ Computer Information Systems student at California State University, Los Angeles
 * Active Directory Administration
 * Windows Server
 * Group Policy Management
+* VMware Workstation
 * Networking Fundamentals
 * Cisco CCNA
-* 
+  
 ## Certifications
 
 Currently Pursuing:
-- CompTIA A+
 - Cisco CCNA
-- 
+  
 ## Technologies
 
 * Windows Server 2022
@@ -64,7 +71,7 @@ Currently Pursuing:
 
 ## Career Interests
 
-Seeking opportunities in:
+Interested in entry-level opportunities involving:
 
 * IT Support
 * Help Desk
