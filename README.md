@@ -43,12 +43,10 @@ https://github.com/edwaaardgee/311_service_requests_analysis
 
 ## Currently Learning
 
-* Active Directory Administration
-* Windows Server
-* Group Policy Management
-* VMware Workstation
-* Networking Fundamentals
-* Cisco CCNA
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-blue)
+![Active Directory](https://img.shields.io/badge/Active_Directory-Admin-blue)
+![CCNA](https://img.shields.io/badge/CCNA-In_Progress-green)
+![VMware](https://img.shields.io/badge/VMware-Workstation-orange)
   
 ## Certifications
 
