@@ -4,6 +4,8 @@ Computer Information Systems Student
 California State University, Los Angeles  
 Expected Graduation: Spring 2027
 
+Building hands-on experience through enterprise IT homelabs, data analytics projects, university coursework and networking labs.
+
 ## Interests
 
 - IT Infrastructure
@@ -14,8 +16,7 @@ Expected Graduation: Spring 2027
 
 ## Current Projects
 
-### Enterprise IT Homelab
-Repository: https://github.com/edwaaardgee/enterprise-it-homelab
+### [Enterprise IT Homelab](https://github.com/edwaaardgee/enterprise-it-homelab)
 
 - Windows Server 2022
 - Active Directory
@@ -25,16 +26,14 @@ Repository: https://github.com/edwaaardgee/enterprise-it-homelab
 - Password Policies
 - Windows 11 Domain Integration
 
-### NYC Taxi Elasticsearch Project
-Repository: https://github.com/edwaaardgee/nyc-taxi-elasticsearch-project
+### [NYC Taxi Elasticsearch Project](https://github.com/edwaaardgee/nyc-taxi-elasticsearch-project)
 
 - Elasticsearch
 - Kibana
 - Python
 - Data Visualization
 
-### NYC 311 Service Requests Analysis
-Repository: https://github.com/edwaaardgee/311_service_requests_analysis
+### [NYC 311 Service Requests Analysis](https://github.com/edwaaardgee/311_service_requests_analysis)
 
 - Hadoop
 - HiveQL
